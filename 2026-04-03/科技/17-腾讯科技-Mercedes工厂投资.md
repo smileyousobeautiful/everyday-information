@@ -1,0 +1,18 @@
+# 标题：Mercedes投资$40亿阿拉巴马州工厂
+
+## 📋 基本信息
+- **来源资讯**: 腾讯科技
+- **阶段**: 采集
+
+## 💡 核心观点
+奔驰宣布投资40亿美元扩建阿拉巴马州工厂，以应对关税压力并增加美国本土产能。
+
+## 🌐 来源详情
+- **国内来源**: 腾讯科技
+- **国外来源**: Automotive News
+
+## 📝 中文字幕
+奔驰砸40亿！美国工厂大幅扩建，要绕开关税？
+
+## 📝 English Subtitle
+Mercedes invests $4B in Alabama plant to ease tariff burden

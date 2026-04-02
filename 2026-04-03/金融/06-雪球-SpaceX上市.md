@@ -1,0 +1,18 @@
+# 标题：雪球分析SpaceX上市影响
+
+## 📋 基本信息
+- **来源资讯**: 雪球
+- **阶段**: 采集
+
+## 💡 核心观点
+SpaceX计划IPO，或成马斯克整合旗下企业的关键一步，市场高度关注。
+
+## 🌐 来源详情
+- **国内来源**: 雪球
+- **国外来源**: 无
+
+## 📝 中文字幕
+SpaceX要上市了！马斯克的下一个大动作
+
+## 📝 English Subtitle
+SpaceX IPO may be Musk's step to consolidate ventures.
