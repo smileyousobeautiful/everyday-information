@@ -13,3 +13,7 @@
 
 ## 📝 中文字幕
 海底隧道橡胶密封加速老化，工程师最初估计有误！
+
+
+## 📝 English Subtitle
+Underwater tunnel rubber seals aging faster than engineers initially estimated!

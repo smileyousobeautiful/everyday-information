@@ -13,3 +13,6 @@
 
 ## 📝 中文字幕
 水下高速路！切萨皮克湾桥隧道工程奇迹。
+
+## 📝 English Subtitle
+Underwater highway! Chesapeake Bay Bridge-Tunnel engineering marvel.

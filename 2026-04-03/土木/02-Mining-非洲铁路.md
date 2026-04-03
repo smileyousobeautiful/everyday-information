@@ -13,3 +13,6 @@
 
 ## 📝 中文字幕
 12亿美元！中国企业改造非洲铁路，连接赞比亚铜矿至印度洋港口。
+
+## 📝 English Subtitle
+$1.2B! Chinese companies revamp African railway, linking Zambia copper mines to Indian Ocean port.

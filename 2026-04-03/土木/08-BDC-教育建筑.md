@@ -13,3 +13,7 @@ Building Design + Construction举办网络研讨会，探讨2026年K-12和高等
 
 ## 📝 中文字幕
 2026年教育设施建筑市场研讨会，探讨校园投资设计趋势。
+
+
+## 📝 English Subtitle
+2026 education facilities construction market webinar explores campus investment trends.

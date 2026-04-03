@@ -13,3 +13,6 @@
 
 ## 📝 中文字幕
 搬山填河！美国超级大坝建设过程曝光。
+
+## 📝 English Subtitle
+Moving mountains to fill rivers! US super dam construction exposed.

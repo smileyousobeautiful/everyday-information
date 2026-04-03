@@ -13,3 +13,7 @@
 
 ## 📝 中文字幕
 供应链危机！美国半数数据中心项目面临延迟或取消。
+
+
+## 📝 English Subtitle
+Supply chain crisis! Half of US data center projects face delays or cancellation.

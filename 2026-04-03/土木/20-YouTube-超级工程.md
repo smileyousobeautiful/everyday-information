@@ -13,3 +13,6 @@
 
 ## 📝 中文字幕
 2026超级工程完工！全球最大基建项目将竣工。
+
+## 📝 English Subtitle
+2026 megaprojects completion! World largest infrastructure projects to finish.

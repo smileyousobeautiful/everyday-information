@@ -13,3 +13,7 @@
 
 ## 📝 中文字幕
 英国建筑行业30周年奖项揭晓，顶尖建筑公司获多项提名。
+
+
+## 📝 English Subtitle
+UK construction industry 30th anniversary awards announce top company nominations.

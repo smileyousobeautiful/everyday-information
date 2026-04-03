@@ -13,3 +13,7 @@
 
 ## 📝 中文字幕
 肯塔基大学研究者用工程方案解决小水务公司劳动力短缺难题。
+
+
+## 📝 English Subtitle
+UK researcher solves small water utility workforce issues with engineering solutions.

@@ -13,3 +13,7 @@
 
 ## 📝 中文字幕
 15亿美元！明尼苏达州2026年200多个道路桥梁项目动工。
+
+
+## 📝 English Subtitle
+$1.5B! Minnesota announces 200+ road and bridge projects for 2026.

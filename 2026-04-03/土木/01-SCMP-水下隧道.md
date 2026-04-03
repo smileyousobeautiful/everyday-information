@@ -13,3 +13,7 @@
 
 ## 📝 中文字幕
 中国14公里水下高铁隧道贯通，世界级工程奇迹，连接上海与成都2000公里高铁线。
+
+## 📝 English Subtitle
+China completes 14km underwater high-speed rail tunnel, world's longest engineering marvel connecting Shanghai and Chengdu.
+

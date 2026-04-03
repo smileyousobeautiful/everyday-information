@@ -13,3 +13,7 @@ Watertech China 2026成为全球水创新与可持续基础设施转型的重要
 
 ## 📝 中文字幕
 Watertech China 2026：全球水创新与可持续基建盛会召开。
+
+
+## 📝 English Subtitle
+Watertech China 2026: Global water innovation and sustainable infrastructure event.

@@ -13,3 +13,7 @@
 
 ## 📝 中文字幕
 瑞典启动世界级铁矿选矿厂项目，NCC负责基础建设工程。
+
+
+## 📝 English Subtitle
+Sweden launches major iron ore sorting plant project, NCC handles foundation engineering.

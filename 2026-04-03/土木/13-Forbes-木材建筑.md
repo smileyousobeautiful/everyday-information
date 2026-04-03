@@ -13,3 +13,7 @@
 
 ## 📝 中文字幕
 木材扩建取代混凝土！建筑碳减排新趋势。
+
+
+## 📝 English Subtitle
+Wood extension replaces concrete! New trend in building carbon emission reduction.
