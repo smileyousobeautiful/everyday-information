@@ -4,7 +4,7 @@ import os
 import re
 from datetime import datetime
 
-DATE = '2026-05-22'
+DATE = "2026-05-27"
 BASE_DIR = f'/root/.openclaw/workspace/everyday-information/{DATE}'
 
 SOURCES = {
